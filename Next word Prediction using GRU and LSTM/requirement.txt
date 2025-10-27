@@ -1,0 +1,22 @@
+# Core libraries
+numpy==1.26.4
+pandas==2.2.3
+
+# Deep learning
+tensorflow==2.17.0
+keras==3.5.0
+
+# Web app
+streamlit==1.39.0
+
+# Model and preprocessing
+scikit-learn==1.5.2
+
+# Optional (for tokenization and text processing)
+nltk==3.9.1
+
+# Save/load models and tokenizer
+pickle-mixin==1.0.2
+
+# Visualization (optional)
+matplotlib==3.9.2
